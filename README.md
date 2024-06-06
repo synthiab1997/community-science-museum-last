@@ -1,47 +1,43 @@
-# Project Title
+# Community Science Museum
 
-A brief description of what this project does and who it's for
+A website project for a community science museum, aimed at providing an interactive and educational online experience for visitors.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 - [Contact](#contact)
 
 ## Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-project-name.git
+    git clone https://github.com/synthiab1997/community-science-museum-last.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-project-name
+    cd community-science-museum-last
     ```
-3. Install dependencies:
-    ```bash
-    npm install
-    ```
+3. Open `index.html` in your browser to view the project locally.
 
 ## Usage
 
-Explain how to use the project with a step-by-step guide:
+To use this project, simply open the `index.html` file in your web browser. No additional setup is required.
 
-1. Start the development server:
-    ```bash
-    npm start
-    ```
-2. Open your browser and navigate to `http://localhost:3000`
+## Technologies Used
+
+- HTML
+- CSS
 
 ## Features
 
-- List the key features of your project
-- Feature 1
-- Feature 2
-- Feature 3
+- Interactive exhibits and displays
+- Educational resources for students and teachers
+- Information on upcoming events and workshops
+- User-friendly navigation and design
 
 ## Contributing
 
@@ -68,6 +64,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Synthia B - [synthia.bassole@yahoo.fr](mailto:synthia.bassole@yahoo.fr)
 
-Project Link: [https://github.com/your-username/your-project-name](https://github.com/your-username/your-project-name)
+Project Link: [https://github.com/synthiab1997/community-science-museum-last](https://github.com/synthiab1997/community-science-museum-last)
+
