@@ -7,7 +7,7 @@ A website project for a community science museum, aimed at providing an interact
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [technology used](#Technologies Used)
+- [technology used](#TechnologyUsed)
 - [contributing](#Contributing)
 - [license](#license)
 - [Contact](#contact)
