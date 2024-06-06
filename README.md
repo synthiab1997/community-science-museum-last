@@ -7,8 +7,9 @@ A website project for a community science museum, aimed at providing an interact
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-
-
+- [technology used](#Technologies Used)
+- [contributing](#Contributing)
+- [license](#license)
 - [Contact](#contact)
 
 ## Installation
@@ -27,17 +28,17 @@ A website project for a community science museum, aimed at providing an interact
 
 To use this project, simply open the `index.html` file in your web browser. No additional setup is required.
 
-## Technologies Used
-
-- HTML
-- CSS
-
 ## Features
 
 - Interactive exhibits and displays
 - Educational resources for students and teachers
 - Information on upcoming events and workshops
 - User-friendly navigation and design
+
+## Technologies Used
+
+- HTML
+- CSS
 
 ## Contributing
 
